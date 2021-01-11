@@ -8,9 +8,10 @@
 ## کارهای انجام شده
 
 - [حساب گیت هاب من](https://github.com/mehrdadeyekta)
+- [PNU_3991_AR](https://github.com/mehrdadeyekta/PNU_3991_AR)
 - [فرم رزومه و سوابق کاری من](https://mehrdadeyekta.github.io/) 
-- [فرم انگیزه نامه من](https://github.com/mehrdadeyekta/pnu/blob/main/sop.md)
-- [مدرک پایتون من](https://github.com/mehrdadeyekta/pnu/blob/main/cert-20533557-1073.pdf)
+- [فرم انگیزه نامه من](https://github.com/mehrdadeyekta/PNU_3991_AR/blob/main/sop.md)
+- [مدرک پایتون من](https://github.com/mehrdadeyekta/PNU_3991_AR/blob/main/cert-20533557-1073.pdf)
 - [لاتک من](link)
 - [فیلم ارائه پاورپوینت من](link)
 
